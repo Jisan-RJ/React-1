@@ -1,0 +1,40 @@
+.special{
+    padding-top: 95px;
+    padding-bottom: 150px;
+    background: #c0c3c95c;
+}
+.sp-head{
+    text-align: center;
+    font-family: "David Libre", serif;
+    font-weight: 700;
+    font-size: 60px;
+    color: #101A24;
+}
+.sp-para{
+    text-align: center;
+    color: #5C6574;
+    font-family: "Inter", serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    padding-bottom: 170px;
+}
+.one, .two, .three, .four{
+    text-align: center;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    padding-top: 140px;
+    padding-bottom: 50px;
+    position: relative;
+    box-shadow: 2px 3px 8px 0px rgba(87, 82, 82, 0.825);
+}
+.sp-img{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -95px;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}

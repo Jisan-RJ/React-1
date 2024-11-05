@@ -1,0 +1,52 @@
+.chef{
+    padding: 140px 0px;
+}
+.chef-text{
+    padding: 90px 0px;
+}
+.chef-text h3{
+    font-family: "David Libre", serif;
+    font-weight: 700;
+    font-size: 60px;
+    color: #101A24;
+}
+.chef-text p{
+    color: #5C6574;
+    font-family: "Inter", serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0px;
+}
+.box h5{
+    padding-left: 9.92px;
+    color: #5C6574;
+    font-family: "Inter", serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+}
+.table{
+    margin-left: 25px;
+    
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 13.5px 31px;
+    color: white;
+    background: #EA6D27;
+    text-decoration: none;
+}
+.menu{
+    padding: 16px 35px;
+    
+    color: white;
+    background: #101A24;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-decoration: none;
+}

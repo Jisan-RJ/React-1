@@ -1,0 +1,75 @@
+.customer{
+    position: relative;
+    background: #c0c3c95c;
+    padding: 180px 0px;
+}
+.search{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.customer-head{
+    text-align: center;
+    font-family: "David Libre", serif;
+    font-weight: 700;
+    font-size: 60px;
+    color: #101A24;
+}
+.customer-para{
+    text-align: center;
+    color: #5C6574;
+    font-family: "Inter", serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    padding-bottom: 80px;
+}
+.para-head{
+    margin: 0 auto;
+}
+.custom-box{
+    margin: 0 auto;
+    border-top-left-radius: 95px;
+    border-bottom-right-radius: 95px;
+    padding-top: 120px;
+    padding-bottom: 50px;
+    position: relative;
+    box-shadow: 2px 3px 8px 0px rgba(87, 82, 82, 0.825);
+}
+.ama{
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+.box-para{
+    margin: 0 auto;
+}
+.box-para p{
+    text-align: center;
+    color: #5C6574;
+    font-family: "Inter", serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+}
+.custom-box h4{
+    text-align: center;
+    color: #101A24;
+    font-family: "Inter", serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 29px;
+}
+.custom-box h5{
+    text-align: center;
+    color: #5C6574;
+    font-family: "Inter", serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 29px;
+}

@@ -1,0 +1,51 @@
+.banner{
+    padding: 200px 0px;
+    position: relative;
+}
+.ban-img{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.banner h1{
+    font-family: "David Libre", serif;
+    font-weight: 700;
+    font-size: 70px;
+    color: #101A24;
+    padding-bottom: 55px;
+    line-height: 72px;
+}
+.banner p{
+    font-family: "Inter", serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    color: #5C6574;
+    padding-bottom: 18px;
+}
+.table{
+    margin-left: 25px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 13.5px 31px;
+    color: white;
+    background: #EA6D27;
+    text-decoration: none;
+}
+.menu{
+    padding: 16px 35px;
+    color: white;
+    background: #101A24;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-decoration: none;
+}
+.links{
+    margin-top: 90px;
+}
+.fb{
+    margin-right: 17px;
+}
+.ins{
+    margin-right: 17px;
+}
