@@ -49,3 +49,51 @@
 .ins{
     margin-right: 17px;
 }
+
+.boxes{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: black;
+    color: white;
+    position: fixed;
+    z-index: 99999;
+    text-align: center;
+    font-family: "David Libre", serif;
+    font-weight: 700;
+    line-height: 60px;
+    font-size: 15px;
+    cursor: pointer;
+    top: 200px;
+    right: 10px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.boxes2{
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 50%;
+    background: wheat;
+    color: black;
+    font-family: "David Libre", serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 60px;
+    font-size: 15px;
+    position: fixed;
+    z-index: 99999;
+    top: 250px;
+    right: 10px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+  .menu-bg{
+    background: red !important;
+}

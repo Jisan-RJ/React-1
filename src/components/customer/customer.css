@@ -7,6 +7,7 @@
     position: absolute;
     top: 0;
     left: 0;
+    z-index: 9999;
 }
 .customer-head{
     text-align: center;
@@ -34,7 +35,16 @@
     padding-top: 120px;
     padding-bottom: 50px;
     position: relative;
+    transition: .6s;
     box-shadow: 2px 3px 8px 0px rgba(87, 82, 82, 0.825);
+    -webkit-transition: .6s;
+    -moz-transition: .6s;
+    -ms-transition: .6s;
+    -o-transition: .6s;
+}
+.custom-box:hover{
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
 }
 .ama{
     position: absolute;
