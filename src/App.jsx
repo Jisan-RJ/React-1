@@ -1,3 +1,4 @@
+import Booking from "./components/booking/Booking"
 import Chef from "./components/chef/Chef"
 import Customer from "./components/customer/Customer"
 
@@ -22,7 +23,9 @@ function App() {
       <Welcome/>
       <Chef/>
       <Customer/>
+      <Booking/>
       <Promo/>
+      
     </>
   )
 }
